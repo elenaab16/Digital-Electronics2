@@ -6,3 +6,7 @@ _Emphasis (italics, bold)_
 ~~Links~~
 Table
 Listing of C source code
+[link github](https://github.com/elenaab16/Digital-Electronics2/edit/master/README.md)
+
+* Item 1
+  * Item2
