@@ -1,3 +1,8 @@
 # Digital-Electronics2
 
-This is the README file
+Headers
+Emphasis (italics, bold)
+Lists (ordered, unordered)
+Links
+Table
+Listing of C source code
