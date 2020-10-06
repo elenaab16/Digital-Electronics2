@@ -61,9 +61,8 @@ int main(void)
 	short_wait();
 	short_wait();
 	
-	// Letter E -> - .
+	// Letter E -> - 
 	
-	long_wait();
 	short_wait();
 	
 	// Number 2 -> . . _ _ _
